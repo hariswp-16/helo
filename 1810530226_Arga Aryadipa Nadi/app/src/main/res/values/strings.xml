@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">1810530226-Notes</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="hapus">Hapus</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplikasi-ku</string>
+    <string name="heroes_name">Nama Smartphone</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="haris_wahyu_pratama">Haris Wahyu Pratama</string>
+    <string name="hariiswahyyupratama_gmail_com">hariiswahyyupratama@gmail.com</string>
+    <string name="grid_view">Grid View</string>
+    <string name="nama_smartphone">Nama Smartphone</string>
+    <string name="card_view">Card View</string>
+    <string name="list_view">List View</string>
+</resources>

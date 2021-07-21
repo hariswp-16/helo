@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_title" type="id" />
+    <item name="edt_description" type="id" />
+    <item name="btn_submit" type="id" />
+    <item name="action_delete" type="id" />
+    <item name="progressbar" type="id" />
+    <item name="rv_notes" type="id" />
+    <item name="fab_add" type="id" />
+    <item name="tv_item_title" type="id" />
+    <item name="tv_item_description" type="id" />
+    <item name="tv_item_date" type="id" />
+    <item name="cv_item_note" type="id" />
+</resources>
